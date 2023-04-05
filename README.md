@@ -28,7 +28,7 @@ The following are some example SQL queries that can be used to extract informati
 
 ## EER diagram
 
-![](https://github.com/JWu-Git/Instagram-Clone-SQL/blob/main/EER_diagram.png =250x250)
+![](https://github.com/JWu-Git/Instagram-Clone-SQL/blob/main/EER_diagram.png)
 
 ## How to Use
 To use this database clone, simply copy and paste the code into a MySQL server and run the queries as needed. Make sure to update the database name in the code if necessary.
