@@ -26,5 +26,9 @@ The following are some example SQL queries that can be used to extract informati
 - Users who like every photo on site (possible bots)
 
 
+## EER diagram
+
+![](https://github.com/JWu-Git/Instagram-Clone-SQL/blob/main/EER_diagram.png?raw=true =250x250)
+
 ## How to Use
 To use this database clone, simply copy and paste the code into a MySQL server and run the queries as needed. Make sure to update the database name in the code if necessary.
