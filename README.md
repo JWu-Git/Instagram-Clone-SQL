@@ -2,6 +2,10 @@
 This is a MySQL database clone for Instagram that contains tables for users, photos, comments, likes, follows, tags, and photo_tags. It also includes some example SQL queries that can be used to extract information from the database.
 
 
+## How to Use
+To use this database clone, simply copy and paste the code into a MySQL server and run the queries as needed. Make sure to update the database name in the code if necessary.
+
+
 ## Tables
 - users: stores information about Instagram users
 - photos: stores information about photos uploaded by users
@@ -29,6 +33,3 @@ The following are some example SQL queries that can be used to extract informati
 ## EER diagram
 
 ![](https://github.com/JWu-Git/Instagram-Clone-SQL/blob/main/EER_diagram.png)
-
-## How to Use
-To use this database clone, simply copy and paste the code into a MySQL server and run the queries as needed. Make sure to update the database name in the code if necessary.
